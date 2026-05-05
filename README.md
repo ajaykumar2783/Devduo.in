@@ -33,7 +33,7 @@
 - **Deployment:** GitHub Pages / Netlify / Vercel  
 
 ---
-
+```
 ## 📂 Project Structure
 Devduo.in/
 │
