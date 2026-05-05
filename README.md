@@ -1,4 +1,4 @@
-# 🚀 DevDuo.in – Premium Portfolio Website
+# 🚀 DevDuo.in – Portfolio Website
 
 > 💡 A modern, responsive, and premium portfolio website built by **Ajay & Raghu** to showcase projects, skills, and services.
 
