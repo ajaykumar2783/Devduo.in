@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Live Demo
-🔗 https://devduo.in *(update if deployed)*
+🔗 [https://devduo.in *(update if deployed)*](https://ajaykumar2783.github.io/Devduo.in/)
 
 ---
 
