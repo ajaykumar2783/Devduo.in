@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Live Demo
-🔗 https://ajaykumar2783.github.io/Devduo.in/
+🔗 https://devduo-in.vercel.app/
 
 ---
 
